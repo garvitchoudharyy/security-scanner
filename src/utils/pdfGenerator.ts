@@ -1,4 +1,4 @@
-**
+/****
  * PDF REPORT GENERATOR
  * ====================
  * Generates a professional security report PDF using jsPDF.
