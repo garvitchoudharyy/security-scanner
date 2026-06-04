@@ -1,4 +1,4 @@
-**
+/**
  * UTILITY HELPERS
  * ===============
  * Shared utility functions for the security scanner frontend.
